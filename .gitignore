@@ -1,0 +1,10 @@
+media/
+*.mp4
+*.wav
+*.mp3
+*.aiff
+*.srt
+__pycache__/
+*.pyc
+.env
+frames/
